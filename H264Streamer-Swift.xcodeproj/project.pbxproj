@@ -1,0 +1,712 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A414361F1CEB0FC3007B671B /* nalu_000.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435BB1CEB0FC3007B671B /* nalu_000.bin */; };
+		A41436201CEB0FC3007B671B /* nalu_001.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435BC1CEB0FC3007B671B /* nalu_001.bin */; };
+		A41436211CEB0FC3007B671B /* nalu_002.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435BD1CEB0FC3007B671B /* nalu_002.bin */; };
+		A41436221CEB0FC3007B671B /* nalu_003.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435BE1CEB0FC3007B671B /* nalu_003.bin */; };
+		A41436231CEB0FC3007B671B /* nalu_004.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435BF1CEB0FC3007B671B /* nalu_004.bin */; };
+		A41436241CEB0FC3007B671B /* nalu_005.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C01CEB0FC3007B671B /* nalu_005.bin */; };
+		A41436251CEB0FC3007B671B /* nalu_006.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C11CEB0FC3007B671B /* nalu_006.bin */; };
+		A41436261CEB0FC3007B671B /* nalu_007.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C21CEB0FC3007B671B /* nalu_007.bin */; };
+		A41436271CEB0FC3007B671B /* nalu_008.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C31CEB0FC3007B671B /* nalu_008.bin */; };
+		A41436281CEB0FC3007B671B /* nalu_009.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C41CEB0FC3007B671B /* nalu_009.bin */; };
+		A41436291CEB0FC3007B671B /* nalu_010.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C51CEB0FC3007B671B /* nalu_010.bin */; };
+		A414362A1CEB0FC3007B671B /* nalu_011.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C61CEB0FC3007B671B /* nalu_011.bin */; };
+		A414362B1CEB0FC3007B671B /* nalu_012.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C71CEB0FC3007B671B /* nalu_012.bin */; };
+		A414362C1CEB0FC3007B671B /* nalu_013.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C81CEB0FC3007B671B /* nalu_013.bin */; };
+		A414362D1CEB0FC3007B671B /* nalu_014.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435C91CEB0FC3007B671B /* nalu_014.bin */; };
+		A414362E1CEB0FC3007B671B /* nalu_015.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435CA1CEB0FC3007B671B /* nalu_015.bin */; };
+		A414362F1CEB0FC3007B671B /* nalu_016.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435CB1CEB0FC3007B671B /* nalu_016.bin */; };
+		A41436301CEB0FC3007B671B /* nalu_017.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435CC1CEB0FC3007B671B /* nalu_017.bin */; };
+		A41436311CEB0FC3007B671B /* nalu_018.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435CD1CEB0FC3007B671B /* nalu_018.bin */; };
+		A41436321CEB0FC3007B671B /* nalu_019.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435CE1CEB0FC3007B671B /* nalu_019.bin */; };
+		A41436331CEB0FC3007B671B /* nalu_020.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435CF1CEB0FC3007B671B /* nalu_020.bin */; };
+		A41436341CEB0FC3007B671B /* nalu_021.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D01CEB0FC3007B671B /* nalu_021.bin */; };
+		A41436351CEB0FC3007B671B /* nalu_022.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D11CEB0FC3007B671B /* nalu_022.bin */; };
+		A41436361CEB0FC3007B671B /* nalu_023.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D21CEB0FC3007B671B /* nalu_023.bin */; };
+		A41436371CEB0FC3007B671B /* nalu_024.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D31CEB0FC3007B671B /* nalu_024.bin */; };
+		A41436381CEB0FC3007B671B /* nalu_025.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D41CEB0FC3007B671B /* nalu_025.bin */; };
+		A41436391CEB0FC3007B671B /* nalu_026.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D51CEB0FC3007B671B /* nalu_026.bin */; };
+		A414363A1CEB0FC3007B671B /* nalu_027.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D61CEB0FC3007B671B /* nalu_027.bin */; };
+		A414363B1CEB0FC3007B671B /* nalu_028.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D71CEB0FC3007B671B /* nalu_028.bin */; };
+		A414363C1CEB0FC3007B671B /* nalu_029.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D81CEB0FC3007B671B /* nalu_029.bin */; };
+		A414363D1CEB0FC3007B671B /* nalu_030.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435D91CEB0FC3007B671B /* nalu_030.bin */; };
+		A414363E1CEB0FC3007B671B /* nalu_031.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435DA1CEB0FC3007B671B /* nalu_031.bin */; };
+		A414363F1CEB0FC3007B671B /* nalu_032.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435DB1CEB0FC3007B671B /* nalu_032.bin */; };
+		A41436401CEB0FC3007B671B /* nalu_033.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435DC1CEB0FC3007B671B /* nalu_033.bin */; };
+		A41436411CEB0FC3007B671B /* nalu_034.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435DD1CEB0FC3007B671B /* nalu_034.bin */; };
+		A41436421CEB0FC3007B671B /* nalu_035.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435DE1CEB0FC3007B671B /* nalu_035.bin */; };
+		A41436431CEB0FC3007B671B /* nalu_036.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435DF1CEB0FC3007B671B /* nalu_036.bin */; };
+		A41436441CEB0FC3007B671B /* nalu_037.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E01CEB0FC3007B671B /* nalu_037.bin */; };
+		A41436451CEB0FC3007B671B /* nalu_038.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E11CEB0FC3007B671B /* nalu_038.bin */; };
+		A41436461CEB0FC3007B671B /* nalu_039.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E21CEB0FC3007B671B /* nalu_039.bin */; };
+		A41436471CEB0FC3007B671B /* nalu_040.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E31CEB0FC3007B671B /* nalu_040.bin */; };
+		A41436481CEB0FC3007B671B /* nalu_041.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E41CEB0FC3007B671B /* nalu_041.bin */; };
+		A41436491CEB0FC3007B671B /* nalu_042.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E51CEB0FC3007B671B /* nalu_042.bin */; };
+		A414364A1CEB0FC3007B671B /* nalu_043.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E61CEB0FC3007B671B /* nalu_043.bin */; };
+		A414364B1CEB0FC3007B671B /* nalu_044.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E71CEB0FC3007B671B /* nalu_044.bin */; };
+		A414364C1CEB0FC3007B671B /* nalu_045.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E81CEB0FC3007B671B /* nalu_045.bin */; };
+		A414364D1CEB0FC3007B671B /* nalu_046.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435E91CEB0FC3007B671B /* nalu_046.bin */; };
+		A414364E1CEB0FC3007B671B /* nalu_047.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435EA1CEB0FC3007B671B /* nalu_047.bin */; };
+		A414364F1CEB0FC3007B671B /* nalu_048.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435EB1CEB0FC3007B671B /* nalu_048.bin */; };
+		A41436501CEB0FC3007B671B /* nalu_049.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435EC1CEB0FC3007B671B /* nalu_049.bin */; };
+		A41436511CEB0FC3007B671B /* nalu_050.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435ED1CEB0FC3007B671B /* nalu_050.bin */; };
+		A41436521CEB0FC3007B671B /* nalu_051.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435EE1CEB0FC3007B671B /* nalu_051.bin */; };
+		A41436531CEB0FC3007B671B /* nalu_052.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435EF1CEB0FC3007B671B /* nalu_052.bin */; };
+		A41436541CEB0FC3007B671B /* nalu_053.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F01CEB0FC3007B671B /* nalu_053.bin */; };
+		A41436551CEB0FC3007B671B /* nalu_054.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F11CEB0FC3007B671B /* nalu_054.bin */; };
+		A41436561CEB0FC3007B671B /* nalu_055.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F21CEB0FC3007B671B /* nalu_055.bin */; };
+		A41436571CEB0FC3007B671B /* nalu_056.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F31CEB0FC3007B671B /* nalu_056.bin */; };
+		A41436581CEB0FC3007B671B /* nalu_057.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F41CEB0FC3007B671B /* nalu_057.bin */; };
+		A41436591CEB0FC3007B671B /* nalu_058.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F51CEB0FC3007B671B /* nalu_058.bin */; };
+		A414365A1CEB0FC3007B671B /* nalu_059.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F61CEB0FC3007B671B /* nalu_059.bin */; };
+		A414365B1CEB0FC3007B671B /* nalu_060.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F71CEB0FC3007B671B /* nalu_060.bin */; };
+		A414365C1CEB0FC3007B671B /* nalu_061.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F81CEB0FC3007B671B /* nalu_061.bin */; };
+		A414365D1CEB0FC3007B671B /* nalu_062.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435F91CEB0FC3007B671B /* nalu_062.bin */; };
+		A414365E1CEB0FC3007B671B /* nalu_063.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435FA1CEB0FC3007B671B /* nalu_063.bin */; };
+		A414365F1CEB0FC3007B671B /* nalu_064.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435FB1CEB0FC3007B671B /* nalu_064.bin */; };
+		A41436601CEB0FC3007B671B /* nalu_065.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435FC1CEB0FC3007B671B /* nalu_065.bin */; };
+		A41436611CEB0FC3007B671B /* nalu_066.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435FD1CEB0FC3007B671B /* nalu_066.bin */; };
+		A41436621CEB0FC3007B671B /* nalu_067.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435FE1CEB0FC3007B671B /* nalu_067.bin */; };
+		A41436631CEB0FC3007B671B /* nalu_068.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41435FF1CEB0FC3007B671B /* nalu_068.bin */; };
+		A41436641CEB0FC3007B671B /* nalu_069.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436001CEB0FC3007B671B /* nalu_069.bin */; };
+		A41436651CEB0FC3007B671B /* nalu_070.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436011CEB0FC3007B671B /* nalu_070.bin */; };
+		A41436661CEB0FC3007B671B /* nalu_071.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436021CEB0FC3007B671B /* nalu_071.bin */; };
+		A41436671CEB0FC3007B671B /* nalu_072.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436031CEB0FC3007B671B /* nalu_072.bin */; };
+		A41436681CEB0FC3007B671B /* nalu_073.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436041CEB0FC3007B671B /* nalu_073.bin */; };
+		A41436691CEB0FC3007B671B /* nalu_074.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436051CEB0FC3007B671B /* nalu_074.bin */; };
+		A414366A1CEB0FC3007B671B /* nalu_075.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436061CEB0FC3007B671B /* nalu_075.bin */; };
+		A414366B1CEB0FC3007B671B /* nalu_076.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436071CEB0FC3007B671B /* nalu_076.bin */; };
+		A414366C1CEB0FC3007B671B /* nalu_077.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436081CEB0FC3007B671B /* nalu_077.bin */; };
+		A414366D1CEB0FC3007B671B /* nalu_078.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436091CEB0FC3007B671B /* nalu_078.bin */; };
+		A414366E1CEB0FC3007B671B /* nalu_079.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414360A1CEB0FC3007B671B /* nalu_079.bin */; };
+		A414366F1CEB0FC3007B671B /* nalu_080.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414360B1CEB0FC3007B671B /* nalu_080.bin */; };
+		A41436701CEB0FC3007B671B /* nalu_081.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414360C1CEB0FC3007B671B /* nalu_081.bin */; };
+		A41436711CEB0FC3007B671B /* nalu_082.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414360D1CEB0FC3007B671B /* nalu_082.bin */; };
+		A41436721CEB0FC3007B671B /* nalu_083.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414360E1CEB0FC3007B671B /* nalu_083.bin */; };
+		A41436731CEB0FC3007B671B /* nalu_084.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414360F1CEB0FC3007B671B /* nalu_084.bin */; };
+		A41436741CEB0FC3007B671B /* nalu_085.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436101CEB0FC3007B671B /* nalu_085.bin */; };
+		A41436751CEB0FC3007B671B /* nalu_086.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436111CEB0FC3007B671B /* nalu_086.bin */; };
+		A41436761CEB0FC3007B671B /* nalu_087.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436121CEB0FC3007B671B /* nalu_087.bin */; };
+		A41436771CEB0FC3007B671B /* nalu_088.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436131CEB0FC3007B671B /* nalu_088.bin */; };
+		A41436781CEB0FC3007B671B /* nalu_089.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436141CEB0FC3007B671B /* nalu_089.bin */; };
+		A41436791CEB0FC3007B671B /* nalu_090.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436151CEB0FC3007B671B /* nalu_090.bin */; };
+		A414367A1CEB0FC3007B671B /* nalu_091.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436161CEB0FC3007B671B /* nalu_091.bin */; };
+		A414367B1CEB0FC3007B671B /* nalu_092.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436171CEB0FC3007B671B /* nalu_092.bin */; };
+		A414367C1CEB0FC3007B671B /* nalu_093.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436181CEB0FC3007B671B /* nalu_093.bin */; };
+		A414367D1CEB0FC3007B671B /* nalu_094.bin in Resources */ = {isa = PBXBuildFile; fileRef = A41436191CEB0FC3007B671B /* nalu_094.bin */; };
+		A414367E1CEB0FC3007B671B /* nalu_095.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414361A1CEB0FC3007B671B /* nalu_095.bin */; };
+		A414367F1CEB0FC3007B671B /* nalu_096.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414361B1CEB0FC3007B671B /* nalu_096.bin */; };
+		A41436801CEB0FC3007B671B /* nalu_097.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414361C1CEB0FC3007B671B /* nalu_097.bin */; };
+		A41436811CEB0FC3007B671B /* nalu_098.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414361D1CEB0FC3007B671B /* nalu_098.bin */; };
+		A41436821CEB0FC3007B671B /* nalu_099.bin in Resources */ = {isa = PBXBuildFile; fileRef = A414361E1CEB0FC3007B671B /* nalu_099.bin */; };
+		A43E857E1CE620D000057124 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43E857D1CE620D000057124 /* AppDelegate.swift */; };
+		A43E85801CE620D000057124 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43E857F1CE620D000057124 /* ViewController.swift */; };
+		A43E85831CE620D000057124 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A43E85811CE620D000057124 /* Main.storyboard */; };
+		A43E85851CE620D000057124 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A43E85841CE620D000057124 /* Assets.xcassets */; };
+		A43E85881CE620D000057124 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A43E85861CE620D000057124 /* LaunchScreen.storyboard */; };
+		A43E8D611CE6215A00057124 /* NALUTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43E8D601CE6215A00057124 /* NALUTypes.swift */; };
+		A43E8D631CE6223400057124 /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43E8D621CE6223400057124 /* VideoView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A41435BB1CEB0FC3007B671B /* nalu_000.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_000.bin; sourceTree = "<group>"; };
+		A41435BC1CEB0FC3007B671B /* nalu_001.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_001.bin; sourceTree = "<group>"; };
+		A41435BD1CEB0FC3007B671B /* nalu_002.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_002.bin; sourceTree = "<group>"; };
+		A41435BE1CEB0FC3007B671B /* nalu_003.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_003.bin; sourceTree = "<group>"; };
+		A41435BF1CEB0FC3007B671B /* nalu_004.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_004.bin; sourceTree = "<group>"; };
+		A41435C01CEB0FC3007B671B /* nalu_005.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_005.bin; sourceTree = "<group>"; };
+		A41435C11CEB0FC3007B671B /* nalu_006.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_006.bin; sourceTree = "<group>"; };
+		A41435C21CEB0FC3007B671B /* nalu_007.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_007.bin; sourceTree = "<group>"; };
+		A41435C31CEB0FC3007B671B /* nalu_008.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_008.bin; sourceTree = "<group>"; };
+		A41435C41CEB0FC3007B671B /* nalu_009.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_009.bin; sourceTree = "<group>"; };
+		A41435C51CEB0FC3007B671B /* nalu_010.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_010.bin; sourceTree = "<group>"; };
+		A41435C61CEB0FC3007B671B /* nalu_011.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_011.bin; sourceTree = "<group>"; };
+		A41435C71CEB0FC3007B671B /* nalu_012.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_012.bin; sourceTree = "<group>"; };
+		A41435C81CEB0FC3007B671B /* nalu_013.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_013.bin; sourceTree = "<group>"; };
+		A41435C91CEB0FC3007B671B /* nalu_014.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_014.bin; sourceTree = "<group>"; };
+		A41435CA1CEB0FC3007B671B /* nalu_015.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_015.bin; sourceTree = "<group>"; };
+		A41435CB1CEB0FC3007B671B /* nalu_016.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_016.bin; sourceTree = "<group>"; };
+		A41435CC1CEB0FC3007B671B /* nalu_017.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_017.bin; sourceTree = "<group>"; };
+		A41435CD1CEB0FC3007B671B /* nalu_018.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_018.bin; sourceTree = "<group>"; };
+		A41435CE1CEB0FC3007B671B /* nalu_019.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_019.bin; sourceTree = "<group>"; };
+		A41435CF1CEB0FC3007B671B /* nalu_020.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_020.bin; sourceTree = "<group>"; };
+		A41435D01CEB0FC3007B671B /* nalu_021.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_021.bin; sourceTree = "<group>"; };
+		A41435D11CEB0FC3007B671B /* nalu_022.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_022.bin; sourceTree = "<group>"; };
+		A41435D21CEB0FC3007B671B /* nalu_023.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_023.bin; sourceTree = "<group>"; };
+		A41435D31CEB0FC3007B671B /* nalu_024.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_024.bin; sourceTree = "<group>"; };
+		A41435D41CEB0FC3007B671B /* nalu_025.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_025.bin; sourceTree = "<group>"; };
+		A41435D51CEB0FC3007B671B /* nalu_026.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_026.bin; sourceTree = "<group>"; };
+		A41435D61CEB0FC3007B671B /* nalu_027.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_027.bin; sourceTree = "<group>"; };
+		A41435D71CEB0FC3007B671B /* nalu_028.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_028.bin; sourceTree = "<group>"; };
+		A41435D81CEB0FC3007B671B /* nalu_029.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_029.bin; sourceTree = "<group>"; };
+		A41435D91CEB0FC3007B671B /* nalu_030.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_030.bin; sourceTree = "<group>"; };
+		A41435DA1CEB0FC3007B671B /* nalu_031.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_031.bin; sourceTree = "<group>"; };
+		A41435DB1CEB0FC3007B671B /* nalu_032.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_032.bin; sourceTree = "<group>"; };
+		A41435DC1CEB0FC3007B671B /* nalu_033.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_033.bin; sourceTree = "<group>"; };
+		A41435DD1CEB0FC3007B671B /* nalu_034.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_034.bin; sourceTree = "<group>"; };
+		A41435DE1CEB0FC3007B671B /* nalu_035.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_035.bin; sourceTree = "<group>"; };
+		A41435DF1CEB0FC3007B671B /* nalu_036.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_036.bin; sourceTree = "<group>"; };
+		A41435E01CEB0FC3007B671B /* nalu_037.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_037.bin; sourceTree = "<group>"; };
+		A41435E11CEB0FC3007B671B /* nalu_038.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_038.bin; sourceTree = "<group>"; };
+		A41435E21CEB0FC3007B671B /* nalu_039.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_039.bin; sourceTree = "<group>"; };
+		A41435E31CEB0FC3007B671B /* nalu_040.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_040.bin; sourceTree = "<group>"; };
+		A41435E41CEB0FC3007B671B /* nalu_041.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_041.bin; sourceTree = "<group>"; };
+		A41435E51CEB0FC3007B671B /* nalu_042.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_042.bin; sourceTree = "<group>"; };
+		A41435E61CEB0FC3007B671B /* nalu_043.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_043.bin; sourceTree = "<group>"; };
+		A41435E71CEB0FC3007B671B /* nalu_044.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_044.bin; sourceTree = "<group>"; };
+		A41435E81CEB0FC3007B671B /* nalu_045.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_045.bin; sourceTree = "<group>"; };
+		A41435E91CEB0FC3007B671B /* nalu_046.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_046.bin; sourceTree = "<group>"; };
+		A41435EA1CEB0FC3007B671B /* nalu_047.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_047.bin; sourceTree = "<group>"; };
+		A41435EB1CEB0FC3007B671B /* nalu_048.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_048.bin; sourceTree = "<group>"; };
+		A41435EC1CEB0FC3007B671B /* nalu_049.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_049.bin; sourceTree = "<group>"; };
+		A41435ED1CEB0FC3007B671B /* nalu_050.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_050.bin; sourceTree = "<group>"; };
+		A41435EE1CEB0FC3007B671B /* nalu_051.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_051.bin; sourceTree = "<group>"; };
+		A41435EF1CEB0FC3007B671B /* nalu_052.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_052.bin; sourceTree = "<group>"; };
+		A41435F01CEB0FC3007B671B /* nalu_053.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_053.bin; sourceTree = "<group>"; };
+		A41435F11CEB0FC3007B671B /* nalu_054.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_054.bin; sourceTree = "<group>"; };
+		A41435F21CEB0FC3007B671B /* nalu_055.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_055.bin; sourceTree = "<group>"; };
+		A41435F31CEB0FC3007B671B /* nalu_056.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_056.bin; sourceTree = "<group>"; };
+		A41435F41CEB0FC3007B671B /* nalu_057.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_057.bin; sourceTree = "<group>"; };
+		A41435F51CEB0FC3007B671B /* nalu_058.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_058.bin; sourceTree = "<group>"; };
+		A41435F61CEB0FC3007B671B /* nalu_059.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_059.bin; sourceTree = "<group>"; };
+		A41435F71CEB0FC3007B671B /* nalu_060.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_060.bin; sourceTree = "<group>"; };
+		A41435F81CEB0FC3007B671B /* nalu_061.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_061.bin; sourceTree = "<group>"; };
+		A41435F91CEB0FC3007B671B /* nalu_062.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_062.bin; sourceTree = "<group>"; };
+		A41435FA1CEB0FC3007B671B /* nalu_063.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_063.bin; sourceTree = "<group>"; };
+		A41435FB1CEB0FC3007B671B /* nalu_064.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_064.bin; sourceTree = "<group>"; };
+		A41435FC1CEB0FC3007B671B /* nalu_065.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_065.bin; sourceTree = "<group>"; };
+		A41435FD1CEB0FC3007B671B /* nalu_066.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_066.bin; sourceTree = "<group>"; };
+		A41435FE1CEB0FC3007B671B /* nalu_067.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_067.bin; sourceTree = "<group>"; };
+		A41435FF1CEB0FC3007B671B /* nalu_068.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_068.bin; sourceTree = "<group>"; };
+		A41436001CEB0FC3007B671B /* nalu_069.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_069.bin; sourceTree = "<group>"; };
+		A41436011CEB0FC3007B671B /* nalu_070.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_070.bin; sourceTree = "<group>"; };
+		A41436021CEB0FC3007B671B /* nalu_071.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_071.bin; sourceTree = "<group>"; };
+		A41436031CEB0FC3007B671B /* nalu_072.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_072.bin; sourceTree = "<group>"; };
+		A41436041CEB0FC3007B671B /* nalu_073.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_073.bin; sourceTree = "<group>"; };
+		A41436051CEB0FC3007B671B /* nalu_074.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_074.bin; sourceTree = "<group>"; };
+		A41436061CEB0FC3007B671B /* nalu_075.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_075.bin; sourceTree = "<group>"; };
+		A41436071CEB0FC3007B671B /* nalu_076.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_076.bin; sourceTree = "<group>"; };
+		A41436081CEB0FC3007B671B /* nalu_077.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_077.bin; sourceTree = "<group>"; };
+		A41436091CEB0FC3007B671B /* nalu_078.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_078.bin; sourceTree = "<group>"; };
+		A414360A1CEB0FC3007B671B /* nalu_079.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_079.bin; sourceTree = "<group>"; };
+		A414360B1CEB0FC3007B671B /* nalu_080.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_080.bin; sourceTree = "<group>"; };
+		A414360C1CEB0FC3007B671B /* nalu_081.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_081.bin; sourceTree = "<group>"; };
+		A414360D1CEB0FC3007B671B /* nalu_082.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_082.bin; sourceTree = "<group>"; };
+		A414360E1CEB0FC3007B671B /* nalu_083.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_083.bin; sourceTree = "<group>"; };
+		A414360F1CEB0FC3007B671B /* nalu_084.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_084.bin; sourceTree = "<group>"; };
+		A41436101CEB0FC3007B671B /* nalu_085.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_085.bin; sourceTree = "<group>"; };
+		A41436111CEB0FC3007B671B /* nalu_086.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_086.bin; sourceTree = "<group>"; };
+		A41436121CEB0FC3007B671B /* nalu_087.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_087.bin; sourceTree = "<group>"; };
+		A41436131CEB0FC3007B671B /* nalu_088.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_088.bin; sourceTree = "<group>"; };
+		A41436141CEB0FC3007B671B /* nalu_089.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_089.bin; sourceTree = "<group>"; };
+		A41436151CEB0FC3007B671B /* nalu_090.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_090.bin; sourceTree = "<group>"; };
+		A41436161CEB0FC3007B671B /* nalu_091.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_091.bin; sourceTree = "<group>"; };
+		A41436171CEB0FC3007B671B /* nalu_092.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_092.bin; sourceTree = "<group>"; };
+		A41436181CEB0FC3007B671B /* nalu_093.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_093.bin; sourceTree = "<group>"; };
+		A41436191CEB0FC3007B671B /* nalu_094.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_094.bin; sourceTree = "<group>"; };
+		A414361A1CEB0FC3007B671B /* nalu_095.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_095.bin; sourceTree = "<group>"; };
+		A414361B1CEB0FC3007B671B /* nalu_096.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_096.bin; sourceTree = "<group>"; };
+		A414361C1CEB0FC3007B671B /* nalu_097.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_097.bin; sourceTree = "<group>"; };
+		A414361D1CEB0FC3007B671B /* nalu_098.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_098.bin; sourceTree = "<group>"; };
+		A414361E1CEB0FC3007B671B /* nalu_099.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = nalu_099.bin; sourceTree = "<group>"; };
+		A43E857A1CE620D000057124 /* H264Streamer-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "H264Streamer-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A43E857D1CE620D000057124 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A43E857F1CE620D000057124 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A43E85821CE620D000057124 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A43E85841CE620D000057124 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A43E85871CE620D000057124 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A43E85891CE620D000057124 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A43E8D601CE6215A00057124 /* NALUTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NALUTypes.swift; sourceTree = "<group>"; };
+		A43E8D621CE6223400057124 /* VideoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A43E85771CE620D000057124 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A41435BA1CEB0FC3007B671B /* NALU2 */ = {
+			isa = PBXGroup;
+			children = (
+				A41435BB1CEB0FC3007B671B /* nalu_000.bin */,
+				A41435BC1CEB0FC3007B671B /* nalu_001.bin */,
+				A41435BD1CEB0FC3007B671B /* nalu_002.bin */,
+				A41435BE1CEB0FC3007B671B /* nalu_003.bin */,
+				A41435BF1CEB0FC3007B671B /* nalu_004.bin */,
+				A41435C01CEB0FC3007B671B /* nalu_005.bin */,
+				A41435C11CEB0FC3007B671B /* nalu_006.bin */,
+				A41435C21CEB0FC3007B671B /* nalu_007.bin */,
+				A41435C31CEB0FC3007B671B /* nalu_008.bin */,
+				A41435C41CEB0FC3007B671B /* nalu_009.bin */,
+				A41435C51CEB0FC3007B671B /* nalu_010.bin */,
+				A41435C61CEB0FC3007B671B /* nalu_011.bin */,
+				A41435C71CEB0FC3007B671B /* nalu_012.bin */,
+				A41435C81CEB0FC3007B671B /* nalu_013.bin */,
+				A41435C91CEB0FC3007B671B /* nalu_014.bin */,
+				A41435CA1CEB0FC3007B671B /* nalu_015.bin */,
+				A41435CB1CEB0FC3007B671B /* nalu_016.bin */,
+				A41435CC1CEB0FC3007B671B /* nalu_017.bin */,
+				A41435CD1CEB0FC3007B671B /* nalu_018.bin */,
+				A41435CE1CEB0FC3007B671B /* nalu_019.bin */,
+				A41435CF1CEB0FC3007B671B /* nalu_020.bin */,
+				A41435D01CEB0FC3007B671B /* nalu_021.bin */,
+				A41435D11CEB0FC3007B671B /* nalu_022.bin */,
+				A41435D21CEB0FC3007B671B /* nalu_023.bin */,
+				A41435D31CEB0FC3007B671B /* nalu_024.bin */,
+				A41435D41CEB0FC3007B671B /* nalu_025.bin */,
+				A41435D51CEB0FC3007B671B /* nalu_026.bin */,
+				A41435D61CEB0FC3007B671B /* nalu_027.bin */,
+				A41435D71CEB0FC3007B671B /* nalu_028.bin */,
+				A41435D81CEB0FC3007B671B /* nalu_029.bin */,
+				A41435D91CEB0FC3007B671B /* nalu_030.bin */,
+				A41435DA1CEB0FC3007B671B /* nalu_031.bin */,
+				A41435DB1CEB0FC3007B671B /* nalu_032.bin */,
+				A41435DC1CEB0FC3007B671B /* nalu_033.bin */,
+				A41435DD1CEB0FC3007B671B /* nalu_034.bin */,
+				A41435DE1CEB0FC3007B671B /* nalu_035.bin */,
+				A41435DF1CEB0FC3007B671B /* nalu_036.bin */,
+				A41435E01CEB0FC3007B671B /* nalu_037.bin */,
+				A41435E11CEB0FC3007B671B /* nalu_038.bin */,
+				A41435E21CEB0FC3007B671B /* nalu_039.bin */,
+				A41435E31CEB0FC3007B671B /* nalu_040.bin */,
+				A41435E41CEB0FC3007B671B /* nalu_041.bin */,
+				A41435E51CEB0FC3007B671B /* nalu_042.bin */,
+				A41435E61CEB0FC3007B671B /* nalu_043.bin */,
+				A41435E71CEB0FC3007B671B /* nalu_044.bin */,
+				A41435E81CEB0FC3007B671B /* nalu_045.bin */,
+				A41435E91CEB0FC3007B671B /* nalu_046.bin */,
+				A41435EA1CEB0FC3007B671B /* nalu_047.bin */,
+				A41435EB1CEB0FC3007B671B /* nalu_048.bin */,
+				A41435EC1CEB0FC3007B671B /* nalu_049.bin */,
+				A41435ED1CEB0FC3007B671B /* nalu_050.bin */,
+				A41435EE1CEB0FC3007B671B /* nalu_051.bin */,
+				A41435EF1CEB0FC3007B671B /* nalu_052.bin */,
+				A41435F01CEB0FC3007B671B /* nalu_053.bin */,
+				A41435F11CEB0FC3007B671B /* nalu_054.bin */,
+				A41435F21CEB0FC3007B671B /* nalu_055.bin */,
+				A41435F31CEB0FC3007B671B /* nalu_056.bin */,
+				A41435F41CEB0FC3007B671B /* nalu_057.bin */,
+				A41435F51CEB0FC3007B671B /* nalu_058.bin */,
+				A41435F61CEB0FC3007B671B /* nalu_059.bin */,
+				A41435F71CEB0FC3007B671B /* nalu_060.bin */,
+				A41435F81CEB0FC3007B671B /* nalu_061.bin */,
+				A41435F91CEB0FC3007B671B /* nalu_062.bin */,
+				A41435FA1CEB0FC3007B671B /* nalu_063.bin */,
+				A41435FB1CEB0FC3007B671B /* nalu_064.bin */,
+				A41435FC1CEB0FC3007B671B /* nalu_065.bin */,
+				A41435FD1CEB0FC3007B671B /* nalu_066.bin */,
+				A41435FE1CEB0FC3007B671B /* nalu_067.bin */,
+				A41435FF1CEB0FC3007B671B /* nalu_068.bin */,
+				A41436001CEB0FC3007B671B /* nalu_069.bin */,
+				A41436011CEB0FC3007B671B /* nalu_070.bin */,
+				A41436021CEB0FC3007B671B /* nalu_071.bin */,
+				A41436031CEB0FC3007B671B /* nalu_072.bin */,
+				A41436041CEB0FC3007B671B /* nalu_073.bin */,
+				A41436051CEB0FC3007B671B /* nalu_074.bin */,
+				A41436061CEB0FC3007B671B /* nalu_075.bin */,
+				A41436071CEB0FC3007B671B /* nalu_076.bin */,
+				A41436081CEB0FC3007B671B /* nalu_077.bin */,
+				A41436091CEB0FC3007B671B /* nalu_078.bin */,
+				A414360A1CEB0FC3007B671B /* nalu_079.bin */,
+				A414360B1CEB0FC3007B671B /* nalu_080.bin */,
+				A414360C1CEB0FC3007B671B /* nalu_081.bin */,
+				A414360D1CEB0FC3007B671B /* nalu_082.bin */,
+				A414360E1CEB0FC3007B671B /* nalu_083.bin */,
+				A414360F1CEB0FC3007B671B /* nalu_084.bin */,
+				A41436101CEB0FC3007B671B /* nalu_085.bin */,
+				A41436111CEB0FC3007B671B /* nalu_086.bin */,
+				A41436121CEB0FC3007B671B /* nalu_087.bin */,
+				A41436131CEB0FC3007B671B /* nalu_088.bin */,
+				A41436141CEB0FC3007B671B /* nalu_089.bin */,
+				A41436151CEB0FC3007B671B /* nalu_090.bin */,
+				A41436161CEB0FC3007B671B /* nalu_091.bin */,
+				A41436171CEB0FC3007B671B /* nalu_092.bin */,
+				A41436181CEB0FC3007B671B /* nalu_093.bin */,
+				A41436191CEB0FC3007B671B /* nalu_094.bin */,
+				A414361A1CEB0FC3007B671B /* nalu_095.bin */,
+				A414361B1CEB0FC3007B671B /* nalu_096.bin */,
+				A414361C1CEB0FC3007B671B /* nalu_097.bin */,
+				A414361D1CEB0FC3007B671B /* nalu_098.bin */,
+				A414361E1CEB0FC3007B671B /* nalu_099.bin */,
+			);
+			path = NALU2;
+			sourceTree = "<group>";
+		};
+		A43E85711CE620D000057124 = {
+			isa = PBXGroup;
+			children = (
+				A43E857C1CE620D000057124 /* H264Streamer-Swift */,
+				A43E857B1CE620D000057124 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A43E857B1CE620D000057124 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A43E857A1CE620D000057124 /* H264Streamer-Swift.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A43E857C1CE620D000057124 /* H264Streamer-Swift */ = {
+			isa = PBXGroup;
+			children = (
+				A41435BA1CEB0FC3007B671B /* NALU2 */,
+				A43E857D1CE620D000057124 /* AppDelegate.swift */,
+				A43E857F1CE620D000057124 /* ViewController.swift */,
+				A43E85811CE620D000057124 /* Main.storyboard */,
+				A43E85841CE620D000057124 /* Assets.xcassets */,
+				A43E85861CE620D000057124 /* LaunchScreen.storyboard */,
+				A43E85891CE620D000057124 /* Info.plist */,
+				A43E8D601CE6215A00057124 /* NALUTypes.swift */,
+				A43E8D621CE6223400057124 /* VideoView.swift */,
+			);
+			path = "H264Streamer-Swift";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A43E85791CE620D000057124 /* H264Streamer-Swift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A43E858C1CE620D000057124 /* Build configuration list for PBXNativeTarget "H264Streamer-Swift" */;
+			buildPhases = (
+				A43E85761CE620D000057124 /* Sources */,
+				A43E85771CE620D000057124 /* Frameworks */,
+				A43E85781CE620D000057124 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "H264Streamer-Swift";
+			productName = "H264Streamer-Swift";
+			productReference = A43E857A1CE620D000057124 /* H264Streamer-Swift.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A43E85721CE620D000057124 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "pan zhansheng";
+				TargetAttributes = {
+					A43E85791CE620D000057124 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = A43E85751CE620D000057124 /* Build configuration list for PBXProject "H264Streamer-Swift" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A43E85711CE620D000057124;
+			productRefGroup = A43E857B1CE620D000057124 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A43E85791CE620D000057124 /* H264Streamer-Swift */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A43E85781CE620D000057124 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A414365D1CEB0FC3007B671B /* nalu_062.bin in Resources */,
+				A41436211CEB0FC3007B671B /* nalu_002.bin in Resources */,
+				A43E85881CE620D000057124 /* LaunchScreen.storyboard in Resources */,
+				A41436811CEB0FC3007B671B /* nalu_098.bin in Resources */,
+				A41436251CEB0FC3007B671B /* nalu_006.bin in Resources */,
+				A414364E1CEB0FC3007B671B /* nalu_047.bin in Resources */,
+				A41436401CEB0FC3007B671B /* nalu_033.bin in Resources */,
+				A414363F1CEB0FC3007B671B /* nalu_032.bin in Resources */,
+				A414367A1CEB0FC3007B671B /* nalu_091.bin in Resources */,
+				A41436671CEB0FC3007B671B /* nalu_072.bin in Resources */,
+				A41436821CEB0FC3007B671B /* nalu_099.bin in Resources */,
+				A414364F1CEB0FC3007B671B /* nalu_048.bin in Resources */,
+				A414363D1CEB0FC3007B671B /* nalu_030.bin in Resources */,
+				A41436641CEB0FC3007B671B /* nalu_069.bin in Resources */,
+				A41436471CEB0FC3007B671B /* nalu_040.bin in Resources */,
+				A41436751CEB0FC3007B671B /* nalu_086.bin in Resources */,
+				A41436421CEB0FC3007B671B /* nalu_035.bin in Resources */,
+				A414367D1CEB0FC3007B671B /* nalu_094.bin in Resources */,
+				A41436771CEB0FC3007B671B /* nalu_088.bin in Resources */,
+				A414362D1CEB0FC3007B671B /* nalu_014.bin in Resources */,
+				A41436601CEB0FC3007B671B /* nalu_065.bin in Resources */,
+				A41436411CEB0FC3007B671B /* nalu_034.bin in Resources */,
+				A414366E1CEB0FC3007B671B /* nalu_079.bin in Resources */,
+				A414365A1CEB0FC3007B671B /* nalu_059.bin in Resources */,
+				A414364A1CEB0FC3007B671B /* nalu_043.bin in Resources */,
+				A41436491CEB0FC3007B671B /* nalu_042.bin in Resources */,
+				A414364D1CEB0FC3007B671B /* nalu_046.bin in Resources */,
+				A414363A1CEB0FC3007B671B /* nalu_027.bin in Resources */,
+				A414362C1CEB0FC3007B671B /* nalu_013.bin in Resources */,
+				A41436481CEB0FC3007B671B /* nalu_041.bin in Resources */,
+				A414365F1CEB0FC3007B671B /* nalu_064.bin in Resources */,
+				A414363E1CEB0FC3007B671B /* nalu_031.bin in Resources */,
+				A41436551CEB0FC3007B671B /* nalu_054.bin in Resources */,
+				A43E85851CE620D000057124 /* Assets.xcassets in Resources */,
+				A41436351CEB0FC3007B671B /* nalu_022.bin in Resources */,
+				A41436511CEB0FC3007B671B /* nalu_050.bin in Resources */,
+				A414366F1CEB0FC3007B671B /* nalu_080.bin in Resources */,
+				A414365B1CEB0FC3007B671B /* nalu_060.bin in Resources */,
+				A41436241CEB0FC3007B671B /* nalu_005.bin in Resources */,
+				A414367F1CEB0FC3007B671B /* nalu_096.bin in Resources */,
+				A41436371CEB0FC3007B671B /* nalu_024.bin in Resources */,
+				A41436651CEB0FC3007B671B /* nalu_070.bin in Resources */,
+				A41436621CEB0FC3007B671B /* nalu_067.bin in Resources */,
+				A414365E1CEB0FC3007B671B /* nalu_063.bin in Resources */,
+				A41436701CEB0FC3007B671B /* nalu_081.bin in Resources */,
+				A41436731CEB0FC3007B671B /* nalu_084.bin in Resources */,
+				A41436561CEB0FC3007B671B /* nalu_055.bin in Resources */,
+				A41436611CEB0FC3007B671B /* nalu_066.bin in Resources */,
+				A41436711CEB0FC3007B671B /* nalu_082.bin in Resources */,
+				A41436321CEB0FC3007B671B /* nalu_019.bin in Resources */,
+				A41436381CEB0FC3007B671B /* nalu_025.bin in Resources */,
+				A414363C1CEB0FC3007B671B /* nalu_029.bin in Resources */,
+				A414362E1CEB0FC3007B671B /* nalu_015.bin in Resources */,
+				A414365C1CEB0FC3007B671B /* nalu_061.bin in Resources */,
+				A41436391CEB0FC3007B671B /* nalu_026.bin in Resources */,
+				A41436451CEB0FC3007B671B /* nalu_038.bin in Resources */,
+				A41436781CEB0FC3007B671B /* nalu_089.bin in Resources */,
+				A41436581CEB0FC3007B671B /* nalu_057.bin in Resources */,
+				A41436691CEB0FC3007B671B /* nalu_074.bin in Resources */,
+				A41436741CEB0FC3007B671B /* nalu_085.bin in Resources */,
+				A414367E1CEB0FC3007B671B /* nalu_095.bin in Resources */,
+				A414362B1CEB0FC3007B671B /* nalu_012.bin in Resources */,
+				A414366B1CEB0FC3007B671B /* nalu_076.bin in Resources */,
+				A41436301CEB0FC3007B671B /* nalu_017.bin in Resources */,
+				A41436221CEB0FC3007B671B /* nalu_003.bin in Resources */,
+				A41436531CEB0FC3007B671B /* nalu_052.bin in Resources */,
+				A41436761CEB0FC3007B671B /* nalu_087.bin in Resources */,
+				A41436331CEB0FC3007B671B /* nalu_020.bin in Resources */,
+				A41436281CEB0FC3007B671B /* nalu_009.bin in Resources */,
+				A41436721CEB0FC3007B671B /* nalu_083.bin in Resources */,
+				A41436631CEB0FC3007B671B /* nalu_068.bin in Resources */,
+				A41436681CEB0FC3007B671B /* nalu_073.bin in Resources */,
+				A41436271CEB0FC3007B671B /* nalu_008.bin in Resources */,
+				A41436431CEB0FC3007B671B /* nalu_036.bin in Resources */,
+				A414366D1CEB0FC3007B671B /* nalu_078.bin in Resources */,
+				A41436201CEB0FC3007B671B /* nalu_001.bin in Resources */,
+				A41436461CEB0FC3007B671B /* nalu_039.bin in Resources */,
+				A41436591CEB0FC3007B671B /* nalu_058.bin in Resources */,
+				A41436291CEB0FC3007B671B /* nalu_010.bin in Resources */,
+				A41436441CEB0FC3007B671B /* nalu_037.bin in Resources */,
+				A41436311CEB0FC3007B671B /* nalu_018.bin in Resources */,
+				A41436261CEB0FC3007B671B /* nalu_007.bin in Resources */,
+				A414361F1CEB0FC3007B671B /* nalu_000.bin in Resources */,
+				A41436541CEB0FC3007B671B /* nalu_053.bin in Resources */,
+				A414366A1CEB0FC3007B671B /* nalu_075.bin in Resources */,
+				A41436361CEB0FC3007B671B /* nalu_023.bin in Resources */,
+				A414362A1CEB0FC3007B671B /* nalu_011.bin in Resources */,
+				A414364B1CEB0FC3007B671B /* nalu_044.bin in Resources */,
+				A41436521CEB0FC3007B671B /* nalu_051.bin in Resources */,
+				A414362F1CEB0FC3007B671B /* nalu_016.bin in Resources */,
+				A414363B1CEB0FC3007B671B /* nalu_028.bin in Resources */,
+				A41436501CEB0FC3007B671B /* nalu_049.bin in Resources */,
+				A41436341CEB0FC3007B671B /* nalu_021.bin in Resources */,
+				A41436801CEB0FC3007B671B /* nalu_097.bin in Resources */,
+				A414366C1CEB0FC3007B671B /* nalu_077.bin in Resources */,
+				A41436231CEB0FC3007B671B /* nalu_004.bin in Resources */,
+				A41436571CEB0FC3007B671B /* nalu_056.bin in Resources */,
+				A41436661CEB0FC3007B671B /* nalu_071.bin in Resources */,
+				A414367C1CEB0FC3007B671B /* nalu_093.bin in Resources */,
+				A43E85831CE620D000057124 /* Main.storyboard in Resources */,
+				A414367B1CEB0FC3007B671B /* nalu_092.bin in Resources */,
+				A414364C1CEB0FC3007B671B /* nalu_045.bin in Resources */,
+				A41436791CEB0FC3007B671B /* nalu_090.bin in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A43E85761CE620D000057124 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A43E8D631CE6223400057124 /* VideoView.swift in Sources */,
+				A43E8D611CE6215A00057124 /* NALUTypes.swift in Sources */,
+				A43E85801CE620D000057124 /* ViewController.swift in Sources */,
+				A43E857E1CE620D000057124 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A43E85811CE620D000057124 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A43E85821CE620D000057124 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A43E85861CE620D000057124 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A43E85871CE620D000057124 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A43E858A1CE620D000057124 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A43E858B1CE620D000057124 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A43E858D1CE620D000057124 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "H264Streamer-Swift/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "cn.edu.scnu.H264Streamer-Swift";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A43E858E1CE620D000057124 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "H264Streamer-Swift/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "cn.edu.scnu.H264Streamer-Swift";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A43E85751CE620D000057124 /* Build configuration list for PBXProject "H264Streamer-Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A43E858A1CE620D000057124 /* Debug */,
+				A43E858B1CE620D000057124 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A43E858C1CE620D000057124 /* Build configuration list for PBXNativeTarget "H264Streamer-Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A43E858D1CE620D000057124 /* Debug */,
+				A43E858E1CE620D000057124 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A43E85721CE620D000057124 /* Project object */;
+}
