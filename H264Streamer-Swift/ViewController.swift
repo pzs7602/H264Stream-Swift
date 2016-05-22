@@ -43,7 +43,7 @@ class ViewController: UIViewController {
     @IBAction func streamVideo(sender:AnyObject)
     {
         // 处理 1000 个 NALU block
-        for k in 0..<100{
+        for k in 0..<1000{
             let resource = NSString(format:"nalu_%03d",k)
             let path = NSBundle.mainBundle().pathForResource(resource as String, ofType: "bin")
             let data = NSData(contentsOfFile: path!)
